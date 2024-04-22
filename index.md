@@ -15,10 +15,10 @@ Imeaces Origin 是由服主 Silvigarabis 开设的一个 Minecraft 生存服务�
 # 服务器信息
 
 ## 连接地址
-基岩版
+基岩版 [快捷加入](minecraft://?addExternalServer=Imeaces-Origin|imc-hilvija26.22.uy:15538)  
 imc-hilvija26.22.uy 15538
 
-Java版
+Java版  
 imc-hilvija26.22.uy
 
 ## 服务器交流
