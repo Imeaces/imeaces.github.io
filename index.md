@@ -1,3 +1,5 @@
+# Imeaces Origin 服务器 - Minecraft 多人生存服务器
+
 Imeaces Origin 是由服主 Silvigarabis 开设的一个 Minecraft 生存服务器，允许最高10名玩家同时在线。
 
 服务器主要玩法为Minecraft多人生存，在这之上，我们还通过服务器插件添加了一些额外的内容和功能。
