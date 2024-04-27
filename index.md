@@ -4,7 +4,7 @@ Imeaces Origin 是由服主 Silvigarabis 开设的一个 Minecraft 生存服务�
 
 服务器主要玩法为Minecraft多人生存，在这之上，我们还通过服务器插件添加了一些额外的内容和功能。
 
-希望你能在服务器中享受这些 Minecraft多人生存以及服务器添加的玩法。
+希望你能在服务器中享受Minecraft多人生存以及服务器添加的额外的玩法。
 
 我们想让更多玩家加入到服务器，所以我们在服务器上安装了Geyser插件，这样，基岩版玩家也可以进入服务器。
 
@@ -15,21 +15,36 @@ Imeaces Origin 是由服主 Silvigarabis 开设的一个 Minecraft 生存服务�
 # 服务器信息
 
 ## 连接地址
-基岩版 [快捷加入](minecraft://?addExternalServer=Imeaces-Origin|imc-hilvija26.22.uy:15538)  
-imc-hilvija26.22.uy 15538
 
-Java版  
-imc-hilvija26.22.uy
+### 基岩版
+
+[_快捷加入_](minecraft://?addExternalServer=Imeaces-Origin|imc-hilvija26.22.uy:40233)  
+
+IP  
+: `imc-hilvija26.22.uy`  
+端口  
+: `40233`  
+支持版本  
+: `1.20.40`-`1.20.80`
+
+### Java版
+
+IP （SRV解析）
+: `imc-hilvija26.22.uy`
+
+IP
+: `imc-hilvija26.22.uy:40233`
 
 ## 服务器交流
 
-QQ通知群 932182724
+QQ通知群
+: `932182724`
 
 ## 游戏版本
 
 你可以使用**Java版**自1.7.10以来的所有正式版本（1.7.10-1.20.4）加入服务器，但是我们推荐你使用[Java版1.19.4](https://zh.minecraft.wiki/w/Java版1.19.4)，这是服务器使用的版本。
 
-除此之外，你还可以使用你的Minecraft **基岩版**加入服务器，只要确保它是正式版1.20.40至1.20.70之间的正式版本，以及它们的兼容版本。
+除此之外，你还可以使用你的Minecraft **基岩版**加入服务器，只要确保它是正式版1.20.40至1.20.80之间的正式版本，以及它们的兼容版本。
 
 如果你通过**离线模式**的Java版本游戏游玩，在进入服务器后必须先进行注册。
 
