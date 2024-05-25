@@ -43,7 +43,7 @@ IP
 ## 服务器交流
 
 Discord服务器
-: ![Discord](https://img.shields.io/discord/974034646285307935)
+: [![Discord](https://img.shields.io/discord/974034646285307935)](https://discord.com/invite/CrHCg9cG7d)
 
 QQ通知群
 : `932182724`
