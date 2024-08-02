@@ -18,10 +18,10 @@ Imeaces Origin 是由服主 Silvigarabis 开设的一个 Minecraft 生存服务�
 
 ### 基岩版
 
-<a href="minecraft://?addExternalServer=Imeaces-Origin|imc-hilvija26.22.uy:40233">快捷加入</a>  
+<a href="minecraft://?addExternalServer=Imeaces-Origin|origin.imeaces.org:40233">快捷加入</a>  
 
 IP  
-: `imc-hilvija26.22.uy`
+: `origin.imeaces.org`
 
 端口  
 : `40233`
@@ -32,10 +32,10 @@ IP
 ### Java版
 
 IP （SRV解析）
-: `imc-hilvija26.22.uy`
+: `origin.imeaces.org`
 
 IP
-: `imc-hilvija26.22.uy:40233`
+: `origin.imeaces.org:40233`
 
 支持版本
 : `1.7.10`-`1.20.5`
